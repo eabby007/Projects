@@ -1,6 +1,7 @@
 /*Problem statement is to design a event query app in order to get a price quote for a particular event in particular date*/
 //COMPILE USING C++11 STD 
 // or else many featurs will not run
+//just trial 
 
 #include<iostream>
 #include<string>

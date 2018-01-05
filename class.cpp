@@ -2,6 +2,7 @@
 //COMPILE USING C++11 STD 
 // or else many featurs will not run
 //just trial 
+//hello world
 
 #include<iostream>
 #include<string>

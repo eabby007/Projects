@@ -1,3 +1,4 @@
+//just to check git
 //write a program that converts a number into its word equivalent e.g 132 = one hundred thirty two 
 
 #include<iostream>
